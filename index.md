@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hey Reader, Welcome to my little space
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Take a glimpse at my journey
