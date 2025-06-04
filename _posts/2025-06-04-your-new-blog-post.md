@@ -11,7 +11,7 @@ I discovered Outreachy through a Bitcoin internship group chat after most of us 
 
 
 ```
-The contribution phase was a steep learning curve. I reached out to my mentor, who was incredibly supportive, guiding me to a starter task to familiarize myself with the devtool codebase. I deepened my Rust knowledge, explored Servo’s architecture, and honed my GitHub skills through pull requests (PRs). My proudest contribution was fixing https://github.com/servo/servo/issues/35867 , supporting color scheme simulation to toggle between dark and light themes for active browser tabs. As my first PR, it required multiple smaller contributions to get right, but seeing it merge felt incredibly rewarding.
+The contribution phase was a steep learning curve. I reached out to my mentor, who was incredibly supportive, guiding me to a starter task to familiarize myself with the devtool codebase. I deepened my Rust knowledge, explored Servo’s architecture, and honed my GitHub skills through pull requests (PRs). My proudest contribution was fixing [colorSchemeSimulation](https://github.com/servo/servo/issues/35867) to toggle between dark and light themes for active browser tabs. As my first PR, it required multiple smaller contributions to get right, but seeing it merge felt incredibly rewarding.
 ```
 
 
