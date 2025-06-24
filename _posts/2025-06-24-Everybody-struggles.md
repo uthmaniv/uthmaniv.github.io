@@ -1,4 +1,5 @@
 ## Everybody Struggles
+
 # The Imposter Creeps In
 "Everybody Struggles" — the title of this blog post resonates deeply with my experience as an Outreachy intern working on the Servo project. A month into my internship, I’ve felt the highs of confidence and the lows of self-doubt. The imposter syndrome that creeps in during challenging moments is real, but so is the growth that comes from pushing through. This journey has been a mix of excitement, obstacles, and profound learning, as I navigate Rust, Servo’s devtool, and the open-source world.
 Riding the Wave of Confidence
@@ -16,7 +17,7 @@ One major hurdle was resolving Git conflicts in my local repository. My PR got s
 
 
 
-# Obstacles is the Way
+# Obstacle is the Way
 By the fourth week, I could fully relate to “Everybody Struggles.” The turning point came when I hit a wall. I needed to refactor NetworkEventActor to merge properties like waitingTime, and responseContent into a single JSON object, matching Firefox’s DevTools logs. Rust’s borrow checker threw errors that seemed cryptic, and my initial fear of debugging them made me doubt my abilities. I’d naively hoped my code would run flawlessly on the first try—not because I thought I was a genius, but because I dreaded the time it would take to decipher and fix errors.
 A particularly tough moment was resolving Git rebase conflicts. My local branch diverged from the upstream repository, stalling my PR. I spent hours wrestling with commands like git rebase and git push --force, terrified of losing my work. But with my mentor’s patient guidance and some sheer determination, I pulled it off. Each resolved conflict and fixed error felt like a small victory, building my confidence in Git and Rust.
 Looking back, these struggles have been profoundly transformative. As the Stoics say, “The obstacle is the way.” Each challenge pushed me to grow. I’m no longer intimidated by Rust’s error logs, I learned to scope borrows correctly to satisfy the borrow checker when restructuring NetworkEventActor to use Option-wrapped structs like ResponseContentMsg.
