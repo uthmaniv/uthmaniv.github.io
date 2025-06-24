@@ -1,6 +1,7 @@
 ## My Outreachy Journey: Building with Servo
+
 <img src="/images/outreachy_intern.png">
-jjjjjjj
+
 # Introduce Yourself...
 Hi, I’m Usman, a Computer Science graduate from Ahmadu Bello University, Nigeria, and a new [Outreachy](https://www.outreachy.org/) intern with [Servo](https://servo.org/)! My love for tech started at 11 when a family friend gifted my dad a desktop computer. I still chuckle at my first computer lab experience a year earlier—meant to open MS Word, I accidentally launched Pinball, couldn’t exit, and got a stern look from my teacher. That mix of curiosity and intimidation sparked a lifelong passion.
 After graduating, I felt unfulfilled despite achieving my dream degree. I craved hands-on building but was overwhelmed by self-learning—front-end, back-end, data analytics, tutorial after tutorial. I eventually found my niche in back-end development, building APIs for personal projects. My journey shifted gears when I joined a fast-paced Bitcoin blockchain internship, diving into Rust, bash scripting, and RPC calls. Though that internship ended early, it ignited my drive to seek mentorship and community, leading me to [Outreachy](https://www.outreachy.org/).
