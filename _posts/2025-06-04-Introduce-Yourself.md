@@ -17,6 +17,6 @@ The contribution phase was a steep learning curve. I reached out to my mentor, w
 
 
 
-
+# Moving Forward
 This internship is a pivotal step in my career discovery. I thrive on learning, and Outreachy offers the perfect environment to grow—mentorship, community, and real-world impact. I’m excited to work on Servo’s network monitor, exposing network events to help developers debug web requests. I look forward to mastering Rust, contributing to an open-source project that powers the web, and building skills that will shape my future as a back-end developer. Here’s to an impactful 12 weeks!
 
