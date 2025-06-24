@@ -1,5 +1,5 @@
 ## Everybody Struggles
-
+<img src = "/images/obstacle.jpg">
 # The Imposter Creeps In
 "Everybody Struggles" — the title of this blog post resonates deeply with my experience as an Outreachy intern working on the Servo project. A month into my internship, I’ve felt the highs of confidence and the lows of self-doubt. The imposter syndrome that creeps in during challenging moments is real, but so is the growth that comes from pushing through. This journey has been a mix of excitement, obstacles, and profound learning, as I navigate Rust, Servo’s devtool, and the open-source world.
 Riding the Wave of Confidence
