@@ -1,5 +1,5 @@
-##Everybody Struggles
-#The Imposter Creeps In
+## Everybody Struggles
+# The Imposter Creeps In
 "Everybody Struggles" — the title of this blog post resonates deeply with my experience as an Outreachy intern working on the Servo project. A month into my internship, I’ve felt the highs of confidence and the lows of self-doubt. The imposter syndrome that creeps in during challenging moments is real, but so is the growth that comes from pushing through. This journey has been a mix of excitement, obstacles, and profound learning, as I navigate Rust, Servo’s devtool, and the open-source world.
 Riding the Wave of Confidence
 My first week at Servo was electric. I dove into my project—improving the network monitor to align with Firefox’s DevTools—with excessive enthusiasm. I was optimistic, maybe even a touch overconfident, thinking I could breeze through my tasks in a month and a half. Everything clicked: I researched about how browsers work, what a browser engine is and what an embeddable browser is. This got me started, and I submitted my first pull request [refactored handle_network_event fn to use BrowsingContexActor]( https://github.com/servo/servo/commit/e1ec650cfe4007d6af280f7800a976c62f0ad903). The code flowed, the builds passed, and I felt like I was in sync with the project. It was a honeymoon phase, and I was riding the wave.
