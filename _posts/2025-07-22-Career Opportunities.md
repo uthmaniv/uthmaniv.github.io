@@ -20,6 +20,7 @@ But that’s not all. Contributing to Servo has also unlocked another unexpected
 Here are some tools and skills I’ve gained—and some I want to grow into next:
 
 What I bring:
+
 Rust Programming: I now have hands-on experience with Rust in the context of browser development.
 
 Open Source Workflow: Working with issues, submitting PRs, navigating large codebases, and engaging in respectful code reviews.
@@ -29,6 +30,7 @@ Developer Tools Insight: Understanding of how network traffic is monitored and v
 Asynchronous Systems: Experience with message passing, event handling, and inter-component communication.
 
 What I want to grow:
+
 Advanced Rust Concepts: I’d love to dive deeper into lifetimes, async/await patterns, and performance optimization in Rust.
 
 Cryptography & Systems Security: Particularly for my longer-term Bitcoin goals.
